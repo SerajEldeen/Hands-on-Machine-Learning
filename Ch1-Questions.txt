@@ -1,0 +1,24 @@
+Q1- How would you define Machine Learning?
+Q2-Can you name four types of problems where it shines?
+Q3-What is a labeled training set?
+Q4-What are the two most common supervised tasks?
+Q5-Can you name four common unsupervised tasks?
+Q6-What type of Machine Learning algorithm would you use to allow a robot to
+walk in various unknown terrains?
+Q7-What type of algorithm would you use to segment your customers into multiple
+groups?
+Q8-Would you frame the problem of spam detection as a supervised learning problem or an unsupervised learning problem?
+Q9-What is an online learning system?
+Q10-What is out-of-core learning?
+Q11-What type of learning algorithm relies on a similarity measure to make predictions?
+Q12-What is the difference between a model parameter and a learning algorithm’s
+hyperparameter?
+Q13-What do model-based learning algorithms search for? What is the most common
+strategy they use to succeed? How do they make predictions?
+Q14-Can you name four of the main challenges in Machine Learning?
+Q15-If your model performs great on the training data but generalizes poorly to new
+instances, what is happening? Can you name three possible solutions?
+Q16-What is a test set, and why would you want to use it?
+Q17-What is the purpose of a validation set?
+Q18-What is the train-dev set, when do you need it, and how do you use it?
+Q19-What can go wrong if you tune hyperparameters using the test set?
